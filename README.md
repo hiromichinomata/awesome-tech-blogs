@@ -35,4 +35,11 @@ Opinionated tech blog list
 | Yelp Engineering and Product Blog             | https://engineeringblog.yelp.com/                 | https://engineeringblog.yelp.com/feed.xml                            |
 
 
-# Japanese
+## Japanese
+### Gaming
+
+| name             | website url                       | rss or atom                                        |
+|------------------|-----------------------------------|----------------------------------------------------|
+| Aiming 開発者ブログ    | https://developer.aiming-inc.com/ | https://developer.aiming-inc.com/feed/             |
+| GREE Engineering | https://labs.gree.jp/blog/        | https://labs.gree.jp/blog/feed/                    |
+| Klablog          | https://www.klab.com/jp/blog/     | https://www.klab.com/jp/assets/rss/rss_klablog.xml |
