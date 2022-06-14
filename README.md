@@ -43,3 +43,11 @@ Opinionated tech blog list
 | Aiming 開発者ブログ    | https://developer.aiming-inc.com/ | https://developer.aiming-inc.com/feed/             |
 | GREE Engineering | https://labs.gree.jp/blog/        | https://labs.gree.jp/blog/feed/                    |
 | Klablog          | https://www.klab.com/jp/blog/     | https://www.klab.com/jp/assets/rss/rss_klablog.xml |
+
+### Infrastructure
+
+| name                    | website url                           | rss or atom                                   |
+|-------------------------|---------------------------------------|-----------------------------------------------|
+| DevelopersIO            | https://dev.classmethod.jp/           | https://dev.classmethod.jp/feed/              |
+| Google Developers Japan | https://developers-jp.googleblog.com/ | https://developers-jp.googleblog.com/atom.xml |
+| さくらのナレッジ                | https://knowledge.sakura.ad.jp/       | https://knowledge.sakura.ad.jp/rss/           |
